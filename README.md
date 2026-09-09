@@ -1,5 +1,7 @@
 # RepoMind Lite
 
+🔗 Live demo: [https://repomind-lite-6nynxhr9mzuv7kwrw9m2nz.streamlit.app](https://repomind-lite-6nynxhr9mzuv7kwrw9m2nz.streamlit.app)
+
 RepoMind Lite is a two-agent RAG application for exploring GitHub repositories. Give it a repository URL, then ask either factual questions about the repository or questions about the codebase.
 
 ## Architecture
